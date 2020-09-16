@@ -18,7 +18,7 @@ After that, you will need to find the Darkspore.exe. Depending of your Darkspore
 
 Copy the `patch_darkspore_exe.exe` file from the patcher folder (from the ReCap release) to the DarksporeBin folder. Run the copied `patch_darkspore_exe.exe` file, and a new window should pop up; you can close after the success message appears. A new file should appear in the DarksporeBin folder after that, the Darkspore_local.exe. Use it to launch Darkspore.
 
-### I want to help coding
+### I want to help with coding
 Same as above, but you will also need to install Visual Studio 2019 ([Download](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)).
 
 To build the server properly, use the **Release x64** setting (VERY IMPORTANT).
